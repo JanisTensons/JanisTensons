@@ -13,8 +13,8 @@ Continuous learning is fundamental to my professional growth, and I actively sta
 
 ## Projects
 
-- [Giphy API](https://github.com/JanisTensons/giphy-app)
-  - Working on the Giphy API project gave me valuable experience in integrating APIs, designing with users in mind, and enhancing engagement through visual content
+- [iBank](https://github.com/JanisTensons/i-bank/tree/main/i-bank)
+  - Building iBank has deepened my understanding of the fintech industry, including currency exchange, secure transactions, and financial data management. I've learned the art of full-stack development, diving into the world of fintech and mastering secure transactions, financial data management, and currency exchange
 
 - [Rick and Morty API](https://github.com/JanisTensons/rick-and-morty)
   - This project allowed me to gain valuable experience in API integration, data retrieval, and delivering an engaging user experience
